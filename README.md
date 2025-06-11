@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ADSingh2004
-- 🏫 I'm currently enrolled at integrated course Btech+Mtech in Computer Science and Engineering (3rd Year)
+- 🏫 I'm currently enrolled at integrated course Btech+Mtech in Computer Science and Engineering (4th Year)
 - At Central University of Jharkhand, Ranchi...
 - 👀 I’m interested in learning new concepts and exploring
 - 🤹‍♂️ My skills till now is 🐍 Python, 🐬 MySQL, C language, ⚡️Q# language and 🗣️communication and many more are coming up...
